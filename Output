@@ -1,0 +1,39 @@
+┌──(kali㉿kali)-[~/Desktop]
+└─$ python Task3.py 
+Enter a password: 123456778
+Password strength: weak
+Feedback:                                                                                         //WEAK
+  * Password should be at least 12 characters long.
+  * Password should contain at least one uppercase letter.
+  * Password should contain at least one lowercase letter.
+  * Password should contain at least one special character.
+
+
+
+
+                                                                             
+┌──(kali㉿kali)-[~/Desktop]
+└─$ python Task3.py 
+Enter a password: zulkifl123        
+Password strength: medium
+Feedback:                                                                                         //MEDIUM
+  * Password should be at least 12 characters long.
+  * Password should contain at least one uppercase letter.
+
+
+
+
+
+
+                                                                             
+┌──(kali㉿kali)-[~/Desktop]
+└─$ python Task3.py 
+Enter a password: Zulkifl_000
+Password strength: strong                                                                         //STRONG
+Feedback:
+  * Password should be at least 12 characters long.
+                                                                             
+┌──(kali㉿kali)-[~/Desktop]
+└─$ python Task3.py 
+Enter a password: Zulkifl12345678
+Password strength: strong
